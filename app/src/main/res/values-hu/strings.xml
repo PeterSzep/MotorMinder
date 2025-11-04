@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ROP</string>
+    <string name="title_activity_add_page">Oldal hozzáadása</string>
+    <string name="next">Következő</string>
+    <string name="previous">Előző</string>
+
+    <string name="first_fragment_label">Első fragmens</string>
+    <string name="second_fragment_label">Második fragmens</string>
+
+    <string-array name="fuel_types">
+        <item>Dízel</item>
+        <item>Benzin</item>
+        <item>Elektromos</item>
+        <item>LPG</item>
+        <item>Dízel/Elektromos</item>
+        <item>Benzin/Elektromos</item>
+    </string-array>
+
+    <string name="title_activity_my_car">Az autóm</string>
+
+    <string-array name="fuel_types_hybrid">
+        <item>Dízel</item>
+        <item>Benzin</item>
+        <item>Elektromos</item>
+    </string-array>
+
+    <string-array name="expense_types">
+        <item>Tartozékok</item>
+        <item>Biztosítás</item>
+        <item>Pótalkatrészek</item>
+        <item>Adó</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="service_types">
+        <item>Autómosás</item>
+        <item>Gumiabroncs csere</item>
+        <item>Motorolaj</item>
+        <item>Vizsgálat</item>
+        <item>Egyéb szolgáltatás</item>
+    </string-array>
+
+    <string-array name="filter_options">
+        <item>Minden</item>
+        <item>Üzemanyag kiegészítése</item>
+        <item>Kilométeróra</item>
+        <item>Kiadások</item>
+        <item>Szolgáltatás</item>
+    </string-array>
+
+    <string-array name="notifications_options">
+        <item>Autómosás</item>
+        <item>Gumiabroncs csere</item>
+        <item>Motorolaj</item>
+        <item>Vizsgálat</item>
+        <item>Egyéb javítás</item>
+    </string-array>
+
+    <string-array name="recurring_options">
+        <item>1 hét</item>
+        <item>1 hónap</item>
+        <item>2 hónap</item>
+        <item>3 hónap</item>
+        <item>4 hónap</item>
+        <item>5 hónap</item>
+        <item>6 hónap</item>
+        <item>7 hónap</item>
+        <item>8 hónap</item>
+        <item>9 hónap</item>
+        <item>10 hónap</item>
+        <item>11 hónap</item>
+        <item>12 hónap</item>
+    </string-array>
+
+    <string name="account_informtation">Fiókinformáció</string>
+    <string name="first_name">Keresztnév</string>
+    <string name="last_name">Vezetéknév</string>
+    <string name="username">Felhasználónév</string>
+    <string name="delete_account">Fiók törlése</string>
+    <string name="notification">Értesítés</string>
+    <string name="description">Leírás</string>
+    <string name="location">Helyszín</string>
+    <string name="reccuring_notifcation">Ismétlődő értesítés minden</string>
+    <string name="deadline">Határidő</string>
+    <string name="name">Név</string>
+    <string name="brand">Márka</string>
+    <string name="model">Modell</string>
+    <string name="year_of_manufacture">Gyártási év</string>
+    <string name="odometer">Kilométeróra</string>
+    <string name="fuel_type">Üzemanyag típusa:</string>
+    <string name="notes">Jegyzetek</string>
+    <string name="contact">Kapcsolat</string>
+    <string name="app_made_by">Az alkalmazást készítette: Peter Szepesi</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="email">E-mail</string>
+    <string name="app_version">Alkalmazás verziója: 1.0</string>
+    <string name="expense">Kiadás</string>
+    <string name="date">Dátum</string>
+    <string name="hour">Óra</string>
+    <string name="cost">Költség</string>
+    <string name="refuel">Üzemanyag utántöltés</string>
+    <string name="amount">Mennyiség</string>
+    <string name="price">Ár</string>
+    <string name="total">Összesen</string>
+    <string name="password">Jelszó</string>
+    <string name="forgot_your_password">Elfelejtette a jelszavát?</string>
+    <string name="remember_me">Emlékezz rám</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="dont_have_an_account">Nincs fiókja? Regisztráljon most!</string>
+    <string name="register">Regisztráció</string>
+    <string name="my_cars">Autóim</string>
+    <string name="notifications">Értesítések</string>
+    <string name="kilometers">Kilométerek</string>
+    <string name="your_username">A felhasználóneved</string>
+    <string name="your_password">Az új jelszavad</string>
+    <string name="your_new_password">Írd be újra az új jelszavadat</string>
+    <string name="reset_your_password">Jelszó visszaállítása</string>
+    <string name="create_account">Fiók létrehozása</string>
+    <string name="service">Szolgáltatás</string>
+    <string name="statistics">Statisztika</string>
+    <string name="monthly_expenses">Havi kiadások</string>
+    <string name="monthly_fuel_costs">Havi üzemanyagköltségek</string>
+    <string name="monthly_kilometers">Havi kilométerek</string>
+    <string name="dialog_mesasge">Biztos benne, hogy törli a fiókját? A megerősítéshez adja meg a jelszavát.</string>
+    <string name="your_name">A neved</string>
+    <string name="home">Kezdőlap</string>
+    <string name="My_Cars">Autóim</string>
+    <string name="about">Az alkalmazásról</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="profile">Profil</string>
+    <string name="confirm">Megerősít</string>
+    <string name="incorrect_password">Helytelen jelszó</string>
+    <string name="cancel">Mégse</string>
+    <string name="notifcation_inserted_succesfully">Az értesítés sikeresen beillesztve</string>
+    <string name="failed_to_insert_notification">Hiba az értesítés beillesztése közben</string>
+    <string name="empty_field">Ezt a mezőt nem lehet üresen hagyni!</string>
+    <string name="car_added_successfully">Az autó sikeresen hozzáadva</string>
+    <string name="failed_to_add_car">Nem sikerült hozzáadni az autóját</string>
+    <string name="year_must_be">Az évnek 1900 és között kell lennie</string>
+    <string name="odometer_must_be">Az óraállásnak 0 és 1 000 000 között kell lennie</string>
+    <string name="username_is_already_taken">A felhasználónév már foglalt</string>
+    <string name="week_1">1 hét</string>
+    <string name="month_1">1 hónap</string>
+    <string name="month_2">2 hónap</string>
+    <string name="month_3">3 hónap</string>
+    <string name="month_4">4 hónap</string>
+    <string name="month_5">5 hónap</string>
+    <string name="month_6">6 hónap</string>
+    <string name="month_7">7 hónap</string>
+    <string name="month_8">8 hónap</string>
+    <string name="month_9">9 hónap</string>
+    <string name="month_10">10 hónap</string>
+    <string name="month_11">11 hónap</string>
+    <string name="month_12">12 hónap</string>
+    <string name="expense_data_inserted_successfully">A kiadási adatok sikeresen beillesztve</string>
+    <string name="expense_data_inserted_error">Hiba a kiadási adatok beillesztése közben</string>
+    <string name="refuel_data_inserted_successfully">A tankolási adatok sikeresen beillesztve</string>
+    <string name="refuel_data_inserted_error">Hiba a tankolási adatok beillesztése közben</string>
+    <string name="diesel">Dízel</string>
+    <string name="gasoline">Benzin</string>
+    <string name="electric">Elektromos</string>
+    <string name="lpg">LPG</string>
+    <string name="invalid_username_password">Érvénytelen felhasználónév vagy jelszó</string>
+    <string name="invalid_username_password_lenght">Az felhasználónév vagy jelszó hossza érvénytelen</string>
+    <string name="good_morning">Jó reggelt</string>
+    <string name="good_afternoon">Jó délutánt</string>
+    <string name="good_evening">Jó estét</string>
+    <string name="all">Minden</string>
+    <string name="delete_title">Törlés megerősítése</string>
+    <string name="are_you_sure_delete_entry">Biztos benne, hogy törölni szeretné ezt a bejegyzést?</string>
+    <string name="failed_to_load_image">Nem sikerült betölteni a képet</string>
+    <string name="car_deleted_successfully">Az autó sikeresen törölve</string>
+    <string name="failed_to_delete_car">Nem sikerült törölni az autóját</string>
+    <string name="are_you_sure_delete_car">Biztos benne, hogy törölni szeretné az autóját?</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="car_upadted_successfully">Az autó adatai sikeresen frissítve</string>
+    <string name="car_updated_error">Nem sikerült frissíteni az autó adatait</string>
+    <string name="car">Autó:</string>
+    <string name="service_type">Szolgáltatás típusa:</string>
+    <string name="description_1">Leírás:</string>
+    <string name="location_1">Helyszín:</string>
+    <string name="open">Navigációs panel megnyitása</string>
+    <string name="close">Navigációs panel bezárása</string>
+    <string name="odometer_inserted_successfully">Az óraállás sikeresen beillesztve</string>
+    <string name="odometer_updating_error">Hiba az óraállás frissítése közben</string>
+    <string name="odometer_inserted_error">Hiba az óraállás beillesztése közben</string>
+    <string name="service_inserted_successfully">A szolgáltatási adatok sikeresen beillesztve</string>
+    <string name="service_inserted_error">Hiba a szolgáltatási adatok beillesztése közben</string>
+    <string name="invalid_username">Érvénytelen felhasználónév</string>
+    <string name="password_must_be">A jelszónak legalább 8 karakter hosszúnak kell lennie</string>
+    <string name="passwords_do_not_match">A jelszavak nem egyeznek</string>
+    <string name="password_reset_successfully">A jelszó sikeresen visszaállítva</string>
+    <string name="username_does_not_exists">A felhasználónév nem létezik</string>
+    <string name="account_created_successfully">A fiók sikeresen létrehozva</string>
+    <string name="registration_failed">A regisztráció sikertelen</string>
+    <string name="invalid_username_lenght">A felhasználónév legalább 8 karakter hosszú kell legyen</string>
+    <string name="invalid_password_lenght">A jelszónak legalább 8 karakter hosszúnak kell lennie</string>
+    <string name="invalid_first_name">A keresztnév nem tartalmazhat számokat vagy speciális karaktereket</string>
+    <string name="invalid_lastname_name">A vezetéknév nem tartalmazhat számokat vagy speciális karaktereket</string>
+    <string name="invalid_username_length">A felhasználónévnek legalább 8 karakterből kell állnia</string>
+    <string name="invalid_password_length">A jelszónak legalább 8 karakterből kell állnia</string>
+
+</resources>

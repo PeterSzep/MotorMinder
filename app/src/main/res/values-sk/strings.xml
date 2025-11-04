@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ROP</string>
+    <string name="title_activity_add_page">Pridať stránku</string>
+    <string name="next">Ďalej</string>
+    <string name="previous">Späť</string>
+
+    <string name="first_fragment_label">Prvý fragment</string>
+    <string name="second_fragment_label">Druhý fragment</string>
+
+    <string-array name="fuel_types">
+        <item>Nafta</item>
+        <item>Benzín</item>
+        <item>Elektrický</item>
+        <item>LPG</item>
+        <item>Nafta/Elektrický</item>
+        <item>Benzín/Elektrický</item>
+    </string-array>
+
+    <string name="title_activity_my_car">Môj automobil</string>
+
+    <string-array name="fuel_types_hybrid">
+        <item>Nafta</item>
+        <item>Benzín</item>
+        <item>Elektrický</item>
+    </string-array>
+
+    <string-array name="expense_types">
+        <item>Príslušenstvo</item>
+        <item>Poistenie</item>
+        <item>Náhradné diely</item>
+        <item>Daň</item>
+        <item>Iné</item>
+    </string-array>
+
+    <string-array name="service_types">
+        <item>Umývanie auta</item>
+        <item>Výmena pneumatík</item>
+        <item>Motorový olej</item>
+        <item>Inšpekcia</item>
+        <item>Iná služba</item>
+    </string-array>
+
+    <string-array name="filter_options">
+        <item>Všetko</item>
+        <item>Doplniť palivo</item>
+        <item>Odometer</item>
+        <item>Výdavky</item>
+        <item>Opravy</item>
+    </string-array>
+
+    <string-array name="notifications_options">
+        <item>Umývanie auta</item>
+        <item>Výmena pneumatík</item>
+        <item>Motorový olej</item>
+        <item>Inšpekcia</item>
+        <item>Iná oprava</item>
+    </string-array>
+
+    <string-array name="recurring_options">
+        <item>1 týždeň</item>
+        <item>1 mesiac</item>
+        <item>2 mesiace</item>
+        <item>3 mesiace</item>
+        <item>4 mesiace</item>
+        <item>5 mesiacov</item>
+        <item>6 mesiacov</item>
+        <item>7 mesiacov</item>
+        <item>8 mesiacov</item>
+        <item>9 mesiacov</item>
+        <item>10 mesiacov</item>
+        <item>11 mesiacov</item>
+        <item>12 mesiacov</item>
+    </string-array>
+
+    <string name="account_informtation">Informácie o účte</string>
+    <string name="first_name">Krstné meno</string>
+    <string name="last_name">Priezvisko</string>
+    <string name="username">Používateľské meno</string>
+    <string name="delete_account">Odstrániť účet</string>
+    <string name="notification">Notifikácia</string>
+    <string name="description">Popis</string>
+    <string name="location">Lokalita</string>
+    <string name="reccuring_notifcation">Opakujúca sa notifikácia každý</string>
+    <string name="deadline">Deadline</string>
+    <string name="name">Meno</string>
+    <string name="brand">Značka</string>
+    <string name="model">Model</string>
+    <string name="year_of_manufacture">Rok výroby</string>
+    <string name="odometer">Odometer</string>
+    <string name="fuel_type">Typ paliva:</string>
+    <string name="notes">Poznámky</string>
+    <string name="contact">Kontakt</string>
+    <string name="app_made_by">Aplikáciu vytvoril: Peter Szepesi</string>
+    <string name="phone_number">Telefónne číslo</string>
+    <string name="email">Email</string>
+    <string name="app_version">Verzia aplikácie: 1.0</string>
+    <string name="expense">Výdavok</string>
+    <string name="date">Dátum</string>
+    <string name="hour">Hodina</string>
+    <string name="cost">Náklad</string>
+    <string name="refuel">Doplnenie paliva</string>
+    <string name="amount">Množstvo</string>
+    <string name="price">Cena</string>
+    <string name="total">Celkom</string>
+    <string name="password">Heslo</string>
+    <string name="forgot_your_password">Zabudli ste heslo?</string>
+    <string name="remember_me">Zapamätať si ma</string>
+    <string name="login">Prihlásiť sa</string>
+    <string name="dont_have_an_account">Nemáte účet? Zaregistrujte sa teraz!</string>
+    <string name="register">Registrovať sa</string>
+    <string name="my_cars">Moje autá</string>
+    <string name="notifications">Notifikácie</string>
+    <string name="kilometers">Kilometre</string>
+    <string name="your_username">Vaše používateľské meno</string>
+    <string name="your_password">Vaše nové heslo</string>
+    <string name="your_new_password">Zadajte svoje nové heslo znovu</string>
+    <string name="reset_your_password">Obnoviť heslo</string>
+    <string name="create_account">Vytvoriť účet</string>
+    <string name="service">Servis</string>
+    <string name="statistics">Štatistiky</string>
+    <string name="monthly_expenses">MESAČNÉ VÝDAVKY</string>
+    <string name="monthly_fuel_costs">MESAČNÉ NÁKLADY NA PALIVO</string>
+    <string name="monthly_kilometers">MESAČNÉ KILOMETRE</string>
+    <string name="dialog_mesasge">Ste si istí, že chcete odstrániť svoj účet? Na potvrdenie zadajte svoje heslo.</string>
+    <string name="your_name">Vaše meno</string>
+    <string name="home">Domov</string>
+    <string name="My_Cars">Moje Autá</string>
+    <string name="about">O aplikácii</string>
+    <string name="logout">Odhlásiť sa</string>
+    <string name="profile">Profil</string>
+    <string name="confirm">Potvrdiť</string>
+    <string name="incorrect_password">Nesprávne heslo</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="notifcation_inserted_succesfully">Notifikácia úspešne vložená</string>
+    <string name="failed_to_insert_notification">Chyba pri vkladaní notifikácie</string>
+    <string name="empty_field">Toto pole nesmie byť prázdne!</string>
+    <string name="car_added_successfully">Auto úspešne pridané</string>
+    <string name="failed_to_add_car">Nepodarilo sa pridať vaše auto</string>
+    <string name="year_must_be">Rok musí byť medzi 1900 a</string>
+    <string name="odometer_must_be">Odometrom musí byť medzi 0 a 1 000 000</string>
+    <string name="username_is_already_taken">Používateľské meno je už obsadené</string>
+    <string name="week_1">1 týždeň</string>
+    <string name="month_1">1 mesiac</string>
+    <string name="month_2">2 mesiace</string>
+    <string name="month_3">3 mesiace</string>
+    <string name="month_4">4 mesiace</string>
+    <string name="month_5">5 mesiacov</string>
+    <string name="month_6">6 mesiacov</string>
+    <string name="month_7">7 mesiacov</string>
+    <string name="month_8">8 mesiacov</string>
+    <string name="month_9">9 mesiacov</string>
+    <string name="month_10">10 mesiacov</string>
+    <string name="month_11">11 mesiacov</string>
+    <string name="month_12">12 mesiacov</string>
+    <string name="expense_data_inserted_successfully">Údaje o výdavkoch úspešne vložené</string>
+    <string name="expense_data_inserted_error">Chyba pri vkladaní údajov o výdavkoch</string>
+    <string name="refuel_data_inserted_successfully">Údaje o natankovaní úspešne vložené</string>
+    <string name="refuel_data_inserted_error">Chyba pri vkladaní údajov o natankovaní</string>
+    <string name="diesel">Nafta</string>
+    <string name="gasoline">Benzín</string>
+    <string name="electric">Elektrický</string>
+    <string name="lpg">LPG</string>
+    <string name="invalid_username_password">Neplatné používateľské meno alebo heslo</string>
+    <string name="invalid_username_password_lenght">Neplatná dĺžka používateľského mena alebo hesla</string>
+    <string name="good_morning">Dobré ráno</string>
+    <string name="good_afternoon">Pekné popoludnie</string>
+    <string name="good_evening">Dobrý večer</string>
+    <string name="all">Všetko</string>
+    <string name="delete_title">Potvrdenie odstránenia</string>
+    <string name="are_you_sure_delete_entry">Ste si istí, že chcete odstrániť túto položku?</string>
+    <string name="failed_to_load_image">Nepodarilo sa načítať obrázok</string>
+    <string name="car_deleted_successfully">Auto úspešne odstránené</string>
+    <string name="failed_to_delete_car">Nepodarilo sa odstrániť vaše auto</string>
+    <string name="are_you_sure_delete_car">Ste si istí, že chcete odstrániť vaše auto?</string>
+    <string name="yes">Áno</string>
+    <string name="no">Nie</string>
+    <string name="car_upadted_successfully">Údaje o aute úspešne aktualizované</string>
+    <string name="car_updated_error">Nepodarilo sa aktualizovať údaje o aute</string>
+    <string name="car">Auto:</string>
+    <string name="service_type">Typ servisu:</string>
+    <string name="description_1">Popis:</string>
+    <string name="location_1">Lokalita:</string>
+    <string name="open">Otvoriť navigačný panel</string>
+    <string name="close">Zavrieť navigačný panel</string>
+    <string name="odometer_inserted_successfully">Údaje o odometri úspešne vložené</string>
+    <string name="odometer_updating_error">Chyba pri aktualizácii hodnoty odometra</string>
+    <string name="odometer_inserted_error">Chyba pri vkladaní údajov o odometri</string>
+    <string name="service_inserted_successfully">Údaje o servise úspešne vložené</string>
+    <string name="service_inserted_error">Chyba pri vkladaní údajov o servise</string>
+    <string name="invalid_username">Neplatné používateľské meno</string>
+    <string name="password_must_be">Heslo musí mať aspoň 8 znakov</string>
+    <string name="passwords_do_not_match">Heslá sa nezhodujú</string>
+    <string name="password_reset_successfully">Heslo úspešne obnovené</string>
+    <string name="username_does_not_exists">Používateľské meno neexistuje</string>
+    <string name="account_created_successfully">Účet bol úspešne vytvorený</string>
+    <string name="registration_failed">Registrácia zlyhala</string>
+    <string name="invalid_username_lenght">Používateľské meno musí mať aspoň 8 znakov</string>
+    <string name="invalid_password_lenght">Heslo musí mať aspoň 8 znakov</string>
+    <string name="invalid_first_name">Meno nesmie obsahovať číslice alebo špeciálne znaky</string>
+    <string name="invalid_lastname_name">Priezvisko nesmie obsahovať číslice alebo špeciálne znaky</string>
+    <string name="invalid_username_length">Užívateľské meno musí mať aspoň 8 znakov</string>
+    <string name="invalid_password_length">Heslo musí mať aspoň 8 znakov</string>
+
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_background_color">#d1e4ff</color>
+    <color name="app_color">#d1e4ff</color>
+    <color name="white">#ffffff</color>
+    <color name="background_app">#FFFBFE</color>
+    <color name="secondary_color">#4a5f79</color>
+    <color name="red">#FFC0C0</color>
+    <color name="redder">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="green">#90EE90</color>
+    <color name="orange">#FFA500</color>
+    <color name="yellow">#FFFF00</color>
+
+
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_corner_radius">20dp</dimen> <!-- Adjust the radius according to your preference -->
+    <dimen name="image_wrapper_size">35dp</dimen>
+
+</resources>

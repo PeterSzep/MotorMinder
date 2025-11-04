@@ -1,0 +1,45 @@
+<!-- res/layout/confirmation_dialog.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/dialogMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_mesasge" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/passwordInputLayout"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:boxStrokeColor="#4a5f79"
+        app:hintTextColor="#4a5f79"
+        android:textCursorDrawable ="@drawable/custom_cursor"
+        app:layout_constraintTop_toBottomOf="@id/usernameInputLayout"
+        app:passwordToggleEnabled="true"
+        android:layout_marginTop="8dp">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/passwordEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:textCursorDrawable="@drawable/custom_cursor"
+            app:hintTextColor="#4a5f79" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+
+
+</LinearLayout>
