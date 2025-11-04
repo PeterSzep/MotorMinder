@@ -3,7 +3,6 @@
 MotorMinder is an Android application developed as my final graduation project.
 It helps car owners efficiently manage and monitor their vehicles — keeping track of expenses, mileage, and maintenance schedules. With MotorMinder, you can organize all your car information in one convenient place and receive reminders for important events.
 
-
 📱 Features
 
 Expense Tracking – Record and view all car-related expenses (fuel, maintenance, repairs, insurance, etc.).
@@ -49,6 +48,13 @@ Database design and data persistence with SQLite.
 Implementing notifications and managing app lifecycle.
 
 Creating clean and functional UI layouts using XML.
+
+💬 Additional Notes
+
+MotorMinder is not a perfect app — it was created as part of a school project and may have some limitations.
+All code comments and documentation are written in Slovak, as required by the school project guidelines.
+
+👤 Author
 
 MotorMinder – Final Graduation Project
 Developed with ❤️ using Java & Android Studio
